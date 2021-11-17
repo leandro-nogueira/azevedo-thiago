@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/thiago-azevedo/static/css/main.d6b42337.chunk.css",
+    "main.js": "/thiago-azevedo/static/js/main.4d4baced.chunk.js",
+    "main.js.map": "/thiago-azevedo/static/js/main.4d4baced.chunk.js.map",
+    "runtime-main.js": "/thiago-azevedo/static/js/runtime-main.0a9e6805.js",
+    "runtime-main.js.map": "/thiago-azevedo/static/js/runtime-main.0a9e6805.js.map",
+    "static/css/2.383c0125.chunk.css": "/thiago-azevedo/static/css/2.383c0125.chunk.css",
+    "static/js/2.e8352e0d.chunk.js": "/thiago-azevedo/static/js/2.e8352e0d.chunk.js",
+    "static/js/2.e8352e0d.chunk.js.map": "/thiago-azevedo/static/js/2.e8352e0d.chunk.js.map",
+    "index.html": "/thiago-azevedo/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/thiago-azevedo/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.d6b42337.chunk.css.map": "/thiago-azevedo/static/css/main.d6b42337.chunk.css.map",
+    "static/js/2.e8352e0d.chunk.js.LICENSE.txt": "/thiago-azevedo/static/js/2.e8352e0d.chunk.js.LICENSE.txt",
+    "static/media/lady-justice-2388500_960_720.dce0285a.webp": "/thiago-azevedo/static/media/lady-justice-2388500_960_720.dce0285a.webp",
+    "static/media/logo.09b54bd5.jpeg": "/thiago-azevedo/static/media/logo.09b54bd5.jpeg",
+    "static/media/man-5806012_960_720.88a07a02.webp": "/thiago-azevedo/static/media/man-5806012_960_720.88a07a02.webp",
+    "static/media/right-4926156_960_720.7c56a92a.webp": "/thiago-azevedo/static/media/right-4926156_960_720.7c56a92a.webp",
+    "static/media/thiago-its-me.acf3d320.jpeg": "/thiago-azevedo/static/media/thiago-its-me.acf3d320.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a9e6805.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.e8352e0d.chunk.js",
+    "static/css/main.d6b42337.chunk.css",
+    "static/js/main.4d4baced.chunk.js"
+  ]
+}
