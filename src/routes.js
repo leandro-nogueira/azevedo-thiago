@@ -9,7 +9,7 @@ import Sobre from './pages/Sobre';
 export default function Rotas() {
   return (
       <Routes>
-        <Route path="/" element={ <Home /> }  />
+        <Route path="/azevedo-thiago" element={ <Home /> }  />
         <Route path="/sobre" element={ <Sobre /> } />
         <Route path="/contato" element={ <Contato /> } />
         <Route path="/servicos" element={ <Servicos /> } />

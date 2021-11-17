@@ -14,7 +14,7 @@ export default function NavBar() {
       style={{ zindex: 499 }}
     >
       <Container>
-        <Navbar.Brand as={Link} to="/">
+        <Navbar.Brand as={Link} to="/azevedo-thiago">
           <img
             alt=""
             src={ logo }
