@@ -1,9 +1,8 @@
 import React from 'react';
-import { Card, CardGroup, Col, Row } from 'react-bootstrap';
+import { Card, CardGroup } from 'react-bootstrap';
 import Carrosel from '../components/Carrossel';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
-import HomeCards from '../components/HomeCards';
 
 export default function Home() {
   return (
