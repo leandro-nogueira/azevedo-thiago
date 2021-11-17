@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/azevedo-thiago/static/css/main.d6b42337.chunk.css",
-    "main.js": "/azevedo-thiago/static/js/main.4d4baced.chunk.js",
-    "main.js.map": "/azevedo-thiago/static/js/main.4d4baced.chunk.js.map",
+    "main.js": "/azevedo-thiago/static/js/main.f4439bc0.chunk.js",
+    "main.js.map": "/azevedo-thiago/static/js/main.f4439bc0.chunk.js.map",
     "runtime-main.js": "/azevedo-thiago/static/js/runtime-main.019f2d60.js",
     "runtime-main.js.map": "/azevedo-thiago/static/js/runtime-main.019f2d60.js.map",
     "static/css/2.383c0125.chunk.css": "/azevedo-thiago/static/css/2.383c0125.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.e8352e0d.chunk.js",
     "static/css/main.d6b42337.chunk.css",
-    "static/js/main.4d4baced.chunk.js"
+    "static/js/main.f4439bc0.chunk.js"
   ]
 }
