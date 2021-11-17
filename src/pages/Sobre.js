@@ -9,9 +9,9 @@ export default function Sobre() {
   return (
     <>
       <Header />
-      <div className="container d-flex justify-content-center align-items-center bg-light marginTop">
+      <div className="container d-flex justify-content-center align-items-center bg-dark marginTop">
       <div className="col-md-4">
-        <Card style={{ width: '18rem' }} >
+        <Card style={{ width: '18rem' }} className="bg-dark text-light" >
           <Card.Img variant="top" src={thiago} />
           <Card.Body>
             <Card.Title className="text-center">Thiago de Azevedo Ribeiro</Card.Title>

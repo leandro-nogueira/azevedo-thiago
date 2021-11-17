@@ -9,8 +9,8 @@ export default function NavBar() {
       collapseOnSelect
       className="col-12 fixed-top"
       expand="md"
-      bg="light"
-      variant="light"
+      bg="dark"
+      variant="dark"
       style={{ zindex: 499 }}
     >
       <Container>
