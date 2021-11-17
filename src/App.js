@@ -1,12 +1,11 @@
-
-import './App.css';
-import Header from './components/Header';
+import React from 'react';
+import Rotas from './routes';
+import  'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      Start here
+    <div className="">
+      <Rotas />
     </div>
   );
 }
